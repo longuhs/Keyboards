@@ -1,0 +1,37 @@
+Added Pin To Net: NetName=GND Pin=K1-2
+Added Pin To Net: NetName=GND Pin=K2-2
+Added Pin To Net: NetName=GND Pin=K3-2
+Added Pin To Net: NetName=GND Pin=K4-2
+Added Pin To Net: NetName=GND Pin=K5-2
+Added Pin To Net: NetName=GND Pin=K6-2
+Added Pin To Net: NetName=GND Pin=K7-2
+Added Pin To Net: NetName=GND Pin=K8-2
+Added Pin To Net: NetName=GND Pin=K9-2
+Added Pin To Net: NetName=NetK1_1 Pin=K1-1
+Added Pin To Net: NetName=NetK1_1 Pin=U1-9
+Added Net: Name=NetK1_1
+Added Pin To Net: NetName=NetK2_1 Pin=K2-1
+Added Pin To Net: NetName=NetK2_1 Pin=U1-10
+Added Net: Name=NetK2_1
+Added Pin To Net: NetName=NetK3_1 Pin=K3-1
+Added Pin To Net: NetName=NetK3_1 Pin=U1-11
+Added Net: Name=NetK3_1
+Added Pin To Net: NetName=NetK4_1 Pin=K4-1
+Added Pin To Net: NetName=NetK4_1 Pin=U1-12
+Added Net: Name=NetK4_1
+Added Pin To Net: NetName=NetK5_1 Pin=K5-1
+Added Pin To Net: NetName=NetK5_1 Pin=U1-17
+Added Net: Name=NetK5_1
+Added Pin To Net: NetName=NetK6_1 Pin=K6-1
+Added Pin To Net: NetName=NetK6_1 Pin=U1-16
+Added Net: Name=NetK6_1
+Added Pin To Net: NetName=NetK7_1 Pin=K7-1
+Added Pin To Net: NetName=NetK7_1 Pin=U1-15
+Added Net: Name=NetK7_1
+Added Pin To Net: NetName=NetK8_1 Pin=K8-1
+Added Pin To Net: NetName=NetK8_1 Pin=U1-14
+Added Net: Name=NetK8_1
+Added Pin To Net: NetName=NetK9_1 Pin=K9-1
+Added Pin To Net: NetName=NetK9_1 Pin=U1-13
+Added Net: Name=NetK9_1
+Added Room: Name=Macropadmod

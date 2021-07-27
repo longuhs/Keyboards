@@ -1,0 +1,37 @@
+Added Component: Designator=D1(Diode)
+Added Component: Designator=D2(Diode)
+Added Component: Designator=D3(Diode)
+Added Component: Designator=D4(Diode)
+Added Component: Designator=D5(Diode)
+Added Component: Designator=D6(Diode)
+Added Component: Designator=D7(Diode)
+Added Component: Designator=D8(Diode)
+Added Component: Designator=D9(Diode)
+Added Pin To Net: NetName=R0 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=R0 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=R0 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=R1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=R1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=R1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=R2 Pin=D7-1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=R2 Pin=D8-1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=R2 Pin=D9-1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Member To Class: ClassName=Macropadmod Member=Component D1 D
+Added Member To Class: ClassName=Macropadmod Member=Component D2 D
+Added Member To Class: ClassName=Macropadmod Member=Component D3 D
+Added Member To Class: ClassName=Macropadmod Member=Component D4 D
+Added Member To Class: ClassName=Macropadmod Member=Component D5 D
+Added Member To Class: ClassName=Macropadmod Member=Component D6 D
+Added Member To Class: ClassName=Macropadmod Member=Component D7 D
+Added Member To Class: ClassName=Macropadmod Member=Component D8 D
+Added Member To Class: ClassName=Macropadmod Member=Component D9 D
+Added Room: Name=Macropadmod

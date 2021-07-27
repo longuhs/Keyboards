@@ -1,0 +1,5 @@
+Added Component: Designator=K7(Socket)
+Added Pin To Net: NetName=C0 Pin=K7-1
+Added Pin To Net: NetName=NetD7_2 Pin=K7-2
+Added Member To Class: ClassName=Macropadmod Member=Component K7 KEYSW-canadian_parts
+Added Room: Name=Macropadmod

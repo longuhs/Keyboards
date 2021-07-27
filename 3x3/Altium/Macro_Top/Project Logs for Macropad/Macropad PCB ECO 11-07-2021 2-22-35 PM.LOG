@@ -1,0 +1,13 @@
+Added Net: Name=GND
+Added Net: Name=NetD?_1
+Added Net: Name=NetD?_2
+Added Net: Name=NetJOLED?_1
+Added Net: Name=NetJOLED?_2
+Added Net: Name=NetK?_1
+Added Net: Name=NetLED?_2
+Added Net: Name=NetLED?_4
+Added Net: Name=NetSW?_2
+Added Net: Name=NetU?_17
+Added Net: Name=VCC
+Added Class: Name=Macropad
+Added Room: Name=Macropad

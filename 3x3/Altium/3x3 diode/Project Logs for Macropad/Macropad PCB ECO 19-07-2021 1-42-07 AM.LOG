@@ -1,0 +1,21 @@
+Added Component: Designator=K4(Socket)
+Added Component: Designator=K5(Socket)
+Added Component: Designator=K6(Socket)
+Added Component: Designator=K8(Socket)
+Added Component: Designator=K9(Socket)
+Added Pin To Net: NetName=C0 Pin=K4-1
+Added Pin To Net: NetName=NetD4_2 Pin=K4-2
+Added Pin To Net: NetName=C1 Pin=K5-1
+Added Pin To Net: NetName=NetD5_2 Pin=K5-2
+Added Pin To Net: NetName=C2 Pin=K6-1
+Added Pin To Net: NetName=NetD6_2 Pin=K6-2
+Added Pin To Net: NetName=C1 Pin=K8-1
+Added Pin To Net: NetName=NetD8_2 Pin=K8-2
+Added Pin To Net: NetName=C2 Pin=K9-1
+Added Pin To Net: NetName=NetD9_2 Pin=K9-2
+Added Member To Class: ClassName=Macropadmod Member=Component K4 KEYSW-canadian_parts
+Added Member To Class: ClassName=Macropadmod Member=Component K5 KEYSW-canadian_parts
+Added Member To Class: ClassName=Macropadmod Member=Component K6 KEYSW-canadian_parts
+Added Member To Class: ClassName=Macropadmod Member=Component K8 KEYSW-canadian_parts
+Added Member To Class: ClassName=Macropadmod Member=Component K9 KEYSW-canadian_parts
+Added Room: Name=Macropadmod

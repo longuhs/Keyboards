@@ -1,0 +1,56 @@
+Added Component: Designator=D?(Diode)
+Added Component: Designator=D?(Diode)
+Added Component: Designator=D?(Diode)
+Added Component: Designator=D?(Diode)
+Added Component: Designator=D?(Diode)
+Added Component: Designator=D?(Diode)
+Added Component: Designator=D?(Diode)
+Added Component: Designator=D?(Diode)
+Added Component: Designator=D?(Diode)
+Added Component: Designator=K?(Socket)
+Added Component: Designator=K?(Socket)
+Added Component: Designator=K?(Socket)
+Added Component: Designator=K?(Socket)
+Added Component: Designator=K?(Socket)
+Added Component: Designator=K?(Socket)
+Added Component: Designator=K?(Socket)
+Added Component: Designator=K?(Socket)
+Added Component: Designator=K?(Socket)
+Added Component: Designator=SW?(SW_PUSH_6mm)
+Added Component: Designator=U?(Pro-Micro)
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-23
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD?_1 Pin=U?-10
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=K?-2
+Added Pin To Net: NetName=NetD?_2 Pin=K?-2
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=U?-13
+Added Net: Name=NetK?_1
+Added Pin To Net: NetName=NetSW?_1 Pin=U?-22
+Added Net: Name=NetSW?_1
+Added Pin To Net: NetName=NetU?_17 Pin=U?-17
+Added Net: Name=NetU?_17
+Added Pin To Net: NetName=NetU?_20 Pin=U?-20
+Added Net: Name=NetU?_20
+Added Pin To Net: NetName=VCC Pin=U?-21
+Added Net: Name=VCC
+Added Class: Name=Macropadmod
+Added Room: Name=Macropadmod

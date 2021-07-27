@@ -1,0 +1,19 @@
+Added Component: Designator=D1(Diode)
+Added Component: Designator=D2(Diode)
+Added Component: Designator=D3(Diode)
+Added Component: Designator=D4(Diode)
+Added Component: Designator=D5(Diode)
+Added Component: Designator=D6(Diode)
+Added Component: Designator=D7(Diode)
+Added Component: Designator=D8(Diode)
+Added Component: Designator=D9(Diode)
+Added Member To Class: ClassName=Macropadmod Member=Component D1 D
+Added Member To Class: ClassName=Macropadmod Member=Component D2 D
+Added Member To Class: ClassName=Macropadmod Member=Component D3 D
+Added Member To Class: ClassName=Macropadmod Member=Component D4 D
+Added Member To Class: ClassName=Macropadmod Member=Component D5 D
+Added Member To Class: ClassName=Macropadmod Member=Component D6 D
+Added Member To Class: ClassName=Macropadmod Member=Component D7 D
+Added Member To Class: ClassName=Macropadmod Member=Component D8 D
+Added Member To Class: ClassName=Macropadmod Member=Component D9 D
+Added Room: Name=Macropadmod

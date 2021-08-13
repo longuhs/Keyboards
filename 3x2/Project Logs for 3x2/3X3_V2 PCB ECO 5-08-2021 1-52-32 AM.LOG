@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=K4-2
+Change Component Designator: OldDesignator=K1 NewDesignator=K2
+Change Component Designator: OldDesignator=K2 NewDesignator=K4
+Change Component Designator: OldDesignator=K3 NewDesignator=K5
+Change Component Designator: OldDesignator=K7 NewDesignator=K6
+Added Component: Designator=K1(Socket)
+Added Component: Designator=K3(Socket)
+Added Pin To Net: NetName=GND Pin=K1-2
+Added Pin To Net: NetName=GND Pin=K3-2
+Added Pin To Net: NetName=B1 Pin=K6-1
+Added Pin To Net: NetName=B1 Pin=U1-16
+Added Net: Name=B1
+Added Pin To Net: NetName=C6 Pin=K4-1
+Added Pin To Net: NetName=C6 Pin=U1-8
+Added Net: Name=C6
+Added Pin To Net: NetName=D4 Pin=K2-1
+Added Pin To Net: NetName=D4 Pin=U1-7
+Added Net: Name=D4
+Added Pin To Net: NetName=D7 Pin=K5-1
+Added Pin To Net: NetName=D7 Pin=U1-9
+Added Net: Name=D7
+Added Pin To Net: NetName=F6 Pin=K1-1
+Added Pin To Net: NetName=F6 Pin=U1-18
+Added Net: Name=F6
+Added Pin To Net: NetName=F7 Pin=K3-1
+Added Pin To Net: NetName=F7 Pin=U1-17
+Added Net: Name=F7
+Change Class Name : Old Net Name=Macropadmod New Net Name=3x3_v2
+Added Member To Class: ClassName=3x3_v2 Member=Component K2 KEYSW-canadian_parts
+Added Member To Class: ClassName=3x3_v2 Member=Component K5 KEYSW-canadian_parts
+Added Room: Name=3x3_v2

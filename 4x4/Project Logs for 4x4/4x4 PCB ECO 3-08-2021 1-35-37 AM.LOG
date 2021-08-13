@@ -1,0 +1,89 @@
+Change Component Designator: OldDesignator=U1_1 NewDesignator=U1
+Added Component: Designator=K1(Socket)
+Added Component: Designator=K2(Socket)
+Added Component: Designator=K3(Socket)
+Added Component: Designator=K4(Socket)
+Added Component: Designator=K5(Socket)
+Added Component: Designator=K6(Socket)
+Added Component: Designator=K7(Socket)
+Added Component: Designator=K8(Socket)
+Added Component: Designator=K9(Socket)
+Added Component: Designator=K10(Socket)
+Added Component: Designator=K11(Socket)
+Added Component: Designator=K12(Socket)
+Added Component: Designator=K13(Socket)
+Added Component: Designator=K14(Socket)
+Added Component: Designator=K15(Socket)
+Added Component: Designator=K16(Socket)
+Added Pin To Net: NetName=GND Pin=K1-2
+Added Pin To Net: NetName=GND Pin=K2-2
+Added Pin To Net: NetName=GND Pin=K3-2
+Added Pin To Net: NetName=GND Pin=K4-2
+Added Pin To Net: NetName=GND Pin=K5-2
+Added Pin To Net: NetName=GND Pin=K6-2
+Added Pin To Net: NetName=GND Pin=K7-2
+Added Pin To Net: NetName=GND Pin=K8-2
+Added Pin To Net: NetName=GND Pin=K9-2
+Added Pin To Net: NetName=GND Pin=K10-2
+Added Pin To Net: NetName=GND Pin=K11-2
+Added Pin To Net: NetName=GND Pin=K12-2
+Added Pin To Net: NetName=GND Pin=K13-2
+Added Pin To Net: NetName=GND Pin=K14-2
+Added Pin To Net: NetName=GND Pin=K15-2
+Added Pin To Net: NetName=GND Pin=K16-2
+Added Pin To Net: NetName=NetSW1_1 Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=NetSW1_1 Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=B1 Pin=K9-1
+Added Pin To Net: NetName=B1 Pin=U1-16
+Added Net: Name=B1
+Added Pin To Net: NetName=B2 Pin=K13-1
+Added Pin To Net: NetName=B2 Pin=U1-14
+Added Net: Name=B2
+Added Pin To Net: NetName=B3 Pin=K11-1
+Added Pin To Net: NetName=B3 Pin=U1-15
+Added Net: Name=B3
+Added Pin To Net: NetName=B4 Pin=K14-1
+Added Pin To Net: NetName=B4 Pin=U1-11
+Added Net: Name=B4
+Added Pin To Net: NetName=B5 Pin=K15-1
+Added Pin To Net: NetName=B5 Pin=U1-12
+Added Net: Name=B5
+Added Pin To Net: NetName=B6 Pin=K16-1
+Added Pin To Net: NetName=B6 Pin=U1-13
+Added Net: Name=B6
+Added Pin To Net: NetName=C6 Pin=K8-1
+Added Pin To Net: NetName=C6 Pin=U1-8
+Added Net: Name=C6
+Added Pin To Net: NetName=D2 Pin=K4-1
+Added Pin To Net: NetName=D2 Pin=U1-2
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=K2-1
+Added Pin To Net: NetName=D3 Pin=U1-1
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=K6-1
+Added Pin To Net: NetName=D4 Pin=U1-7
+Added Net: Name=D4
+Added Pin To Net: NetName=D7 Pin=K10-1
+Added Pin To Net: NetName=D7 Pin=U1-9
+Added Net: Name=D7
+Added Pin To Net: NetName=E6 Pin=K12-1
+Added Pin To Net: NetName=E6 Pin=U1-10
+Added Net: Name=E6
+Added Pin To Net: NetName=F4 Pin=K1-1
+Added Pin To Net: NetName=F4 Pin=U1-20
+Added Net: Name=F4
+Added Pin To Net: NetName=F5 Pin=K3-1
+Added Pin To Net: NetName=F5 Pin=U1-19
+Added Net: Name=F5
+Added Pin To Net: NetName=F6 Pin=K5-1
+Added Pin To Net: NetName=F6 Pin=U1-18
+Added Net: Name=F6
+Added Pin To Net: NetName=F7 Pin=K7-1
+Added Pin To Net: NetName=F7 Pin=U1-17
+Added Net: Name=F7
+Added Class: Name=4x4
+Added Room: Name=4x4

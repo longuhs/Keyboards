@@ -1,0 +1,19 @@
+Added Component: Designator=K2(Socket)
+Added Component: Designator=K4(Socket)
+Added Component: Designator=K5(Socket)
+Added Component: Designator=K6(Socket)
+Added Pin To Net: NetName=D4 Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K2-2
+Added Pin To Net: NetName=C6 Pin=K4-1
+Added Pin To Net: NetName=GND Pin=K4-2
+Added Pin To Net: NetName=D7 Pin=K5-1
+Added Pin To Net: NetName=GND Pin=K5-2
+Added Pin To Net: NetName=B1 Pin=K6-1
+Added Pin To Net: NetName=GND Pin=K6-2
+Added Member To Class: ClassName=3x3_v2 Member=Component K1 KEYSW-canadian_parts
+Added Member To Class: ClassName=3x3_v2 Member=Component K2 KEYSW-canadian_parts
+Added Member To Class: ClassName=3x3_v2 Member=Component K3 KEYSW-canadian_parts
+Added Member To Class: ClassName=3x3_v2 Member=Component K4 KEYSW-canadian_parts
+Added Member To Class: ClassName=3x3_v2 Member=Component K5 KEYSW-canadian_parts
+Added Member To Class: ClassName=3x3_v2 Member=Component K6 KEYSW-canadian_parts
+Added Room: Name=3x3_v2

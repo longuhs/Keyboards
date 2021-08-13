@@ -1,0 +1,27 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [3x3_V2.PrjPcb]
+   Generated File[3X3_V2_Copper_Signal_Top.gbr]
+   Generated File[3X3_V2_Copper_Signal_Bot.gbr]
+   Generated File[3X3_V2_Pads_Bot.gbr]
+   Generated File[3X3_V2_Pads_Top.gbr]
+   Generated File[3X3_V2_Legend_Bot.gbr]
+   Generated File[3X3_V2_Soldermask_Bot.gbr]
+   Generated File[3X3_V2_Paste_Bot.gbr]
+   Generated File[3X3_V2_Legend_Top.gbr]
+   Generated File[3X3_V2_Paste_Top.gbr]
+   Generated File[3X3_V2_Soldermask_Top.gbr]
+   Generated File[3X3_V2_Keep-out.gbr]
+   Generated File[3X3_V2_Mechanical_1.gbr]
+   Generated File[3X3_V2_Profile.gbr]
+   Generated File[3X3_V2_NPTH_Drill.gbr]
+   Generated File[3X3_V2_PTH_Drill.gbr]
+   Generated File[3X3_V2.RUL]
+   Generated File[3X3_V2.EXTREP]
+   Generated File[3X3_V2.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 3:43:35 PM On 12/08/2021
